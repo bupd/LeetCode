@@ -1,7 +1,7 @@
 package LeetCode;
 
 import java.util.Scanner;
-
+// hi java testing the commit
 public class numberOfStepstoZero {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
